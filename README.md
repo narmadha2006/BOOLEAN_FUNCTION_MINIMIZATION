@@ -52,8 +52,6 @@ Developed by:NARMADHA S RegisterNumber:212223220065
 
 **RTL realization**
 
-
-
 ![Screenshot 2024-04-03 094321](https://github.com/narmadha2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/151390280/dec6d9a4-73e7-4f91-a345-8a6d6cbef116)
 
 **Truth table**
